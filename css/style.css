@@ -148,9 +148,12 @@ nav{
 
 .col30{
     width: 30%;
-    border: 1px solid grey;
     min-height: 1100px;
+}
 
+.border{
+    border: 1px solid black;
+    min-height: 1200px;
 }
 
 .space-around{
@@ -243,6 +246,10 @@ hr{
     border: 1px solid black;
 }
 
+.font-size-20{
+    font-size: 20px;
+}
+
 .col-60 img{
     width: 100%;
     
@@ -250,4 +257,9 @@ hr{
 
 .margin-top-200{
     margin-top: 200px;
+}
+
+.col30 img{
+    width: 100%;
+    
 }
