@@ -146,14 +146,13 @@ nav{
     font-size: 50px;
 }
 
-.col30{
+.co-l30{
     width: 30%;
-    min-height: 1100px;
 }
 
 .border{
     border: 1px solid black;
-    min-height: 1200px;
+    min-height: 1300px;
 }
 
 .space-around{
@@ -259,7 +258,21 @@ hr{
     margin-top: 200px;
 }
 
-.col30 img{
+.content-third-section{
+    margin: 30px;
+}
+
+.content-third-section img{
     width: 100%;
     
 }
+
+.content-third-section p{
+    font-size: 20px;
+}
+
+.content-third-section h3{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
