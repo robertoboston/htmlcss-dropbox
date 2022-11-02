@@ -4,6 +4,54 @@
     margin: 0;
 }
 
-body{
+header{
+    padding: 20px 0;
+}
+
+.row-header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+    display: flex;
+}
+
+.left-col, .right-col{
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+
+.right-col{
+    justify-content: flex-end;
+}
+
+
+
+.header-list{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+
+}
+
+.header-list li{
+    padding: 0 20px;
+}
+
+.button{
+    padding: 7px 10px;
+    color: white;
+    border-style: none;
+}
+
+.button-blue{
     background-color: blue;
+}
+
+.accedi{
+    text-decoration: none;
+    color: black;
 }
