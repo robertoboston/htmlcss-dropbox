@@ -148,6 +148,8 @@ nav{
 
 .col30{
     width: 30%;
+    border: 1px solid grey;
+    
 
 }
 
@@ -158,7 +160,11 @@ nav{
 .rectangle{
     text-align: center;
     padding: 10px;
-    border: 1px solid black;
+    border: 1px solid grey;
+}
+
+.content{
+    padding: 30px 50px;
 }
 
 .content ul{
@@ -166,7 +172,33 @@ nav{
 }
 
 .section-list li{
-    padding: 10px 0;
+    padding: 15px 0;
+    list-style: none;
 
 }
 
+.content li{
+    font-size: 20px;
+}
+
+.button-content{
+    background-color: blue;
+    color: white;
+    padding: 15px 65px;
+    border-style: none;
+    font-size: 15px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.margin-bottom-30{
+    margin-bottom: 30px;
+}
+
+hr{
+    width: 20%;
+    margin-top: 30px;
+}
