@@ -272,7 +272,11 @@ hr{
 }
 
 .content-third-section h3{
-    font-size: 35px;
+    font-size: 30px;
     margin-bottom: 30px;
+}
+
+.margin-bottom-200{
+    margin-bottom: 200px;
 }
 
