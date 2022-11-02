@@ -146,3 +146,27 @@ nav{
     font-size: 50px;
 }
 
+.col30{
+    width: 30%;
+
+}
+
+.space-around{
+    justify-content: space-between;
+}
+
+.rectangle{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.content ul{
+    list-style: none;
+}
+
+.section-list li{
+    padding: 10px 0;
+
+}
+
