@@ -128,7 +128,7 @@ nav{
 /* main  */
 
 .container-main {
-    width: 60%;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -150,6 +150,7 @@ nav{
 
 .co-l30{
     width: 30%;
+    
 }
 
 .border{
@@ -170,6 +171,7 @@ nav{
 
 .content{
     padding: 30px 50px;
+    
 }
 
 .content ul{
@@ -179,17 +181,19 @@ nav{
 
 .section-list li{
     padding: 15px 0;
-    
 
 }
 
 .content li{
-    font-size: 20px;
+    font-size: 22px;
+    line-height: 1.2;
 }
 
 .blue{
     color: #0061ff
 }
+
+
 
 .button-content{
     background-color: #0061ff;
