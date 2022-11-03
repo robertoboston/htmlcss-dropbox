@@ -58,7 +58,7 @@ nav{
 }
 
 .button-blue{
-    background-color: blue;
+    background-color: #0061ff
 }
 
 .accedi{
@@ -187,8 +187,12 @@ nav{
     font-size: 20px;
 }
 
+.blue{
+    color: #0061ff
+}
+
 .button-content{
-    background-color: blue;
+    background-color: #0061ff;
     color: white;
     padding: 15px 65px;
     border-style: none;
@@ -250,6 +254,7 @@ nav{
     color: black;
     background-color: white;
     border: 1px solid black;
+    padding: 10px 10px;
 }
 
 .font-size-20{
