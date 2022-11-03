@@ -45,16 +45,14 @@ nav{
 
 
 
-.header-list{
+.header-nav{
     display: flex;
     align-items: center;
     list-style-type: none;
+    padding: 0 10px;
 
 }
 
-.header-list li{
-    padding: 0 20px;
-}
 
 .dropdown{
     padding: 0 20px;
@@ -73,6 +71,7 @@ nav{
 .accedi{
     text-decoration: none;
     color: black;
+    padding: 0 20px;
 }
 
 .dropdown{ 
