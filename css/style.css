@@ -4,14 +4,15 @@
     margin: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 
 body{
     font-family: "montserrat", sans-serif;
 }
 
-html{
-    scroll-behavior: smooth;
-}
 
 /* header  */
 
@@ -53,6 +54,15 @@ nav{
 
 }
 
+.dropdown a:hover{
+    color: #0093ce;
+    
+}
+
+.accedi:hover{
+    color: #0093ce;
+
+}
 
 .dropdown{
     padding: 0 20px;
@@ -168,6 +178,7 @@ nav{
 
 .down-arrow{
     margin-top: 100px;
+    color: black;
 }
 
 
@@ -364,6 +375,10 @@ nav{
 
 
 .col-40{
+    width: 40%;
+}
+
+.col-50{
     width: 50%;
     
 }
