@@ -14,6 +14,7 @@ body{
 }
 
 
+
 /* header  */
 
 header{
@@ -72,7 +73,15 @@ nav{
     padding: 7px 10px;
     color: white;
     border-style: none;
+    cursor: pointer;
 }
+
+.button:hover{
+    background-color: #0093ce;
+
+}
+
+
 
 .button-blue{
     background-color: #0061ff
@@ -266,6 +275,12 @@ nav{
     padding: 15px 65px;
     border-style: none;
     font-size: 15px;
+    cursor: pointer;
+}
+
+.button-content:hover{
+    background-color: #0093ce;
+
 }
 
 .button-container{
@@ -324,6 +339,11 @@ nav{
     background-color: white;
     border: 1px solid black;
     padding: 10px 10px;
+}
+
+.button-white:hover{
+    background-color: black;
+    color: white;
 }
 
 .font-size-20{
